@@ -1,2 +1,4 @@
-# Mastercard-Cybersecurity-virtual-experience-program-on-Forage
-Mastercard Cybersecurity virtual experience program on Forage - November 2025    * Completed a job simulation where I served as an analyst on Mastercard’s    Security Awareness Team   * Helped identify and report security threats such as phishing   * Analyzed and identified which areas of the business needed more robust    security training 
+### Mastercard Cybersecurity Virtual Experience Program — Forage (Nov 2025)
+- Completed a job simulation as an Analyst on Mastercard’s Security Awareness Team
+- Identified and reported security threats such as phishing
+- Analyzed areas of the business needing stronger security training and implemented training courses and procedures
